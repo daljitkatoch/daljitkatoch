@@ -6,7 +6,7 @@ Hello! I’m Daljit. I am Software Engineer working on web applications and web 
 
 📫 How to reach me: djkatoch@gmail.com
 
-😄 Pronouns: He/Him.
+😄 Pronouns: He/His.
 
 
 
