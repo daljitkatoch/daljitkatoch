@@ -1,12 +1,20 @@
-## Hi, There 👋
+## 🙋🏻 About Me
 
-Hello! I’m Daljit. I am Software Engineer working on web applications and web infrastructure. I have been developing professionally for 7 years and going strongly.
+Full-time Backend developer on web applications and web infrastructure. I have been developing professionally since 2015 and going strongly.
 
-🤓 I’m currently learning new things.
+**🚀 Skills and Tools I Have Used and Learned**
 
-📫 How to reach me: djkatoch@gmail.com
+PHP, Core PHP, Laravel, Codigniter, Magento2, Wordpress, Html, CSS, Javascript, jQuery, Angular, React JS, MySQl, SQL, ZohoMail, Git, GutHub 
 
-😄 Pronouns: He/His.
+**🤓 Learning daily new things.**
+
+**📫 How to reach me:** djkatoch@gmail.com
+
+**😄 Pronouns:** He/His.
+
+ 
+
+
 
 
 
