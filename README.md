@@ -1,6 +1,6 @@
 ## 🙋🏻 About Me
 
-Full-time Backend developer on web applications and web infrastructure. I have been developing professionally since 2015 and going strongly.
+Full-time Backend developer. I have been developing professionally since 2015 and going strongly.
 
 **🚀 Skills and Tools I Have Used and Learned**
 
