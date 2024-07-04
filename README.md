@@ -12,6 +12,11 @@ PHP, Core PHP, Laravel, Codigniter, Magento2, Wordpress, Html, CSS, Javascript, 
 
 **😄 Pronouns:** He/His.
 
+<div align="left">
+    <a href="https://www.buymeacoffee.com/djkatocht" target="_blank" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/Send%20Gift-Gift%20Me%20A%20Hot%20Coffee-red.svg?style=flat-square&logo=buymeacoffee" align="center" />
+    </a>
+</div>
  
 
 
